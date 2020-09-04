@@ -1,1 +1,1 @@
-# test-code-server
+# code-server
