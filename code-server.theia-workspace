@@ -5,6 +5,9 @@
       },
       {
          "path": "file:///workspace/desafio-mod-4"
+      },
+      {
+         "path": "file:///workspace/grades-api"
       }
    ],
    "settings": {
