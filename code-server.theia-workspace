@@ -1,0 +1,18 @@
+{
+   "folders": [
+      {
+         "path": ""
+      },
+      {
+         "path": "file:///workspace/desafio-mod-4"
+      }
+   ],
+   "settings": {
+      "emmet.includeLanguages": {
+         "javascript": "javascriptreact"
+      },
+      "emmet.syntaxProfiles": {
+         "javascript": "jsx"
+      }
+   }
+}
