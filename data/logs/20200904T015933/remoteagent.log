@@ -4,3 +4,12 @@
 [2020-09-04 02:05:46.528] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/workspace/code-server/data/User/snippets'
 [2020-09-04 02:13:57.990] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/workspace/code-server/data/User/snippets'
 [2020-09-04 02:13:57.990] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/workspace/code-server/data/User/snippets'
+[2020-09-04 02:26:22.237] [remoteagent] [info] Installing the extension: mongodb.mongodb-vscode
+[2020-09-04 02:26:22.887] [remoteagent] [info] Extracted extension to /workspace/code-server/data/extensions/.mongodb.mongodb-vscode-0.1.1: mongodb.mongodb-vscode
+[2020-09-04 02:26:22.888] [remoteagent] [info] Renamed to /workspace/code-server/data/extensions/mongodb.mongodb-vscode-0.1.1
+[2020-09-04 02:26:22.890] [remoteagent] [info] Installation completed. mongodb.mongodb-vscode
+[2020-09-04 02:26:22.912] [remoteagent] [info] Successfully installed the extension: mongodb.mongodb-vscode
+[2020-09-04 02:27:06.658] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/workspace/code-server/data/User/snippets'
+[2020-09-04 02:27:06.658] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/workspace/code-server/data/User/snippets'
+[2020-09-04 02:29:34.297] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/workspace/code-server/data/User/snippets'
+[2020-09-04 02:29:34.297] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/workspace/code-server/data/User/snippets'

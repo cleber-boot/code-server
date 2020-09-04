@@ -59,3 +59,4 @@ Require stack:
 [2020-09-04 02:15:04.029] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
 [2020-09-04 02:15:04.029] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/github/dist/extension.js
 [2020-09-04 02:15:04.254] [exthost] [info] eager extensions activated
+[2020-09-04 02:32:43.881] [exthost] [info] extension host started
