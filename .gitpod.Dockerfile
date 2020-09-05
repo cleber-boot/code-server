@@ -15,5 +15,6 @@ USER gitpod
 
 RUN  curl -fsSL https://code-server.dev/install.sh | sh -s -- --dry-run 
 RUN  curl -fsSL https://code-server.dev/install.sh | sh 
+RUN  curl https://cli-assets.heroku.com/install-ubuntu.sh | sh
 
 # More information: https://www.gitpod.io/docs/config-docker/
